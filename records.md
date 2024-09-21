@@ -58,7 +58,6 @@
 - [ ] K.K. March
 - [ ] K.K. Mariachi
 - [ ] K.K. Metal
-- [ ] K.K. Milonga
 - [x] K.K. Moody
 - [ ] K.K. Oasis
 - [ ] K.K. Parade
@@ -105,4 +104,3 @@
 - [x] Two Days Ago
 - [ ] Wandering
 - [ ] Welcome Horizons
-

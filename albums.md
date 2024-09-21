@@ -94,7 +94,7 @@
 - [x] Only Me
 - [ ] Pondering
 - [x] Rockin' K.K.
-- [ ] Soulful K.K.
+- [x] Soulful K.K.
 - [ ] Space K.K.
 - [x] Spring Blossoms
 - [ ] Stale Cupcakes
@@ -105,4 +105,3 @@
 - [x] Two Days Ago
 - [ ] Wandering
 - [x] Welcome Horizons
-
