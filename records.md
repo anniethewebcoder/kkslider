@@ -1,0 +1,108 @@
+- [ ] Agent K.K.
+- [ ] Aloha K.K.
+- [ ] Animal City
+- [ ] Bubblegum K.K.
+- [ ] Cafe K.K
+- [ ] Chillwave
+- [ ] Comrade K.K.
+- [ ] DJ K.K.
+- [ ] Drivin'
+- [ ] Farewell
+- [ ] Forest Life
+- [ ] Go K.K. Rider
+- [x] Hypno K.K.
+- [ ] I Love You
+- [ ] Imperial K.K.
+- [ ] King K.K. 
+- [ ] K.K. Adventure
+- [ ] K.K. Aria
+- [ ] K.K. Ballad
+- [ ] K.K. Bashment
+- [ ] K.K. Bazaar
+- [ ] K.K. Birthday
+- [ ] K.K. Blues
+- [ ] K.K. Bossa
+- [ ] K.K. Break
+- [ ] K.K. Calypso
+- [x] K.K. Casbah
+- [ ] K.K. Chorale
+- [ ] K.K. Chorinho
+- [ ] K.K. Condor
+- [ ] K.K. Country
+- [ ] K.K. Crusin'
+- [x] K.K. D & B
+- [ ] K.K. Dirge
+- [x] K.K. Disco
+- [ ] K.K. Dixie
+- [ ] K.K. Dub
+- [ ] K.K. Etude
+- [ ] K.K. Faire
+- [ ] K.K. Flamenco
+- [ ] K.K. Folk
+- [ ] K.K. Fugue
+- [ ] K.K. Fusion
+- [x] K.K. Groove
+- [ ] K.K. Gumbo
+- [ ] K.K. Hop
+- [ ] K.K. House
+- [ ] K.K. Island
+- [ ] K.K. Jazz
+- [ ] K.K. Jongara
+- [ ] K.K. Khoomei
+- [ ] K.K. Lament
+- [ ] K.K. Lovesong
+- [ ] K.K. Lovers
+- [ ] K.K. Lullaby
+- [ ] K.K. Mambo
+- [ ] K.K. Marathon
+- [ ] K.K. March
+- [ ] K.K. Mariachi
+- [ ] K.K. Metal
+- [ ] K.K. Milonga
+- [x] K.K. Moody
+- [ ] K.K. Oasis
+- [ ] K.K. Parade
+- [ ] K.K. Polka
+- [ ] K.K. Ragtime
+- [ ] K.K. Rally
+- [ ] K.K. Raggae
+- [ ] K.K. Robot Synth
+- [ ] K.K. Rock
+- [ ] K.K. Rockabilly
+- [ ] K.K. Safari
+- [ ] K.K. Salsa
+- [ ] K.K. Samba
+- [ ] K.K. Ska
+- [ ] K.K. Slack-Key
+- [ ] K.K. Sonata
+- [ ] K.K. Song
+- [ ] K.K. Soul
+- [ ] K.K. Steppe
+- [ ] K.K. Stroll
+- [ ] K.K. Swing
+- [ ] K.K. Synth
+- [ ] K.K. Tango
+- [ ] K.K. Technopop
+- [ ] K.K. Waltz
+- [ ] K.K. Western
+- [ ] Lucky K.K.
+- [ ] Marine Song 2001
+- [ ] Mountain Song
+- [ ] Mr. K.K.
+- [ ] My Place
+- [ ] Neapolitan
+- [ ] Only Me
+- [ ] Pondering
+- [ ] Rockin' K.K.
+- [ ] Soulful K.K.
+- [ ] Space K.K.
+- [ ] Spring Blossoms
+- [ ] Stale Cupcakes
+- [ ] Steep Hill
+- [ ] Surfin' K.K.
+- [ ] The K.Funk
+- [ ] To The Edge
+- [x] Two Days Ago
+- [ ] Wandering
+- [ ] Welcome Horizons
+
