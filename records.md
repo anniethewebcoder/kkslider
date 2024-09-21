@@ -76,7 +76,7 @@
 - [ ] K.K. Sonata
 - [ ] K.K. Song
 - [ ] K.K. Soul
-- [ ] K.K. Steppe
+- [x] K.K. Steppe
 - [ ] K.K. Stroll
 - [ ] K.K. Swing
 - [ ] K.K. Synth

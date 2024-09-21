@@ -19,7 +19,7 @@
 - [x] K.K. Ballad
 - [x] K.K. Bashment
 - [ ] K.K. Bazaar
-- [ ] K.K. Birthday
+- [x] K.K. Birthday
 - [ ] K.K. Blues
 - [x] K.K. Bossa
 - [x] K.K. Break
@@ -103,5 +103,5 @@
 - [ ] The K.Funk
 - [x] To The Edge
 - [x] Two Days Ago
-- [ ] Wandering
+- [x] Wandering
 - [x] Welcome Horizons
